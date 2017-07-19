@@ -1,10 +1,9 @@
 package chapter3.variantc.fraction.entity;
 
-import java.util.Random;
 
 /**
  *
- * @author SLAVA
+ * @author Sukhocheva Maryana
  */
 public class ComplexNumber {
     
